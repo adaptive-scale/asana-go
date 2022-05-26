@@ -1,4 +1,4 @@
-module bitbucket.org/mikehouston/asana-go
+module github.com/adaptive-scale/asana-go
 
 go 1.14
 

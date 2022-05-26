@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"bitbucket.org/mikehouston/asana-go"
+	"github.com/adaptive-scale/asana-go"
 )
 
 func ListWorkspaces(c *asana.Client) error {
